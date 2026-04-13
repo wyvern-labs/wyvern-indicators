@@ -1,4 +1,4 @@
-# Wyvern indicators
+# Wyvern labs indicators
 
 ### TLP : **White**
 
